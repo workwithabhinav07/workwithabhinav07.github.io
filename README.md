@@ -1,3 +1,55 @@
-# workwithabhinav07.github.io
-My personal developer portfolio showcasing my coding projects, technical skills, and aim.
-It's shows  my professional data like linkedin, leetcode , Hackerrank profile with all my skill and knowledge i retain through out my journey.
+# 👨‍💻 Portfolio | Abhinav Sharma
+
+Welcome to the repository for my personal portfolio! This site acts as a showcase of my journey as a Computer Science student, highlighting my projects, technical skills, and academic progress.
+
+**Live Demo:** [https://workwithabhinav07.github.io/](https://workwithabhinav07.github.io/)
+
+---
+
+## 🚀 About Me
+
+I am a **Computer Science Engineer** currently pursuing my B.Tech. I am passionate about understanding the core fundamentals of software engineering and solving complex problems through code.
+
+- 🎓 **Education:** B.Tech in Computer Science @ KCC ITM (2025 - 2029)
+- 💻 **Core Focus:** C, Python, Java, and Data Structures.
+- ⚡ **Interests:** Open Source contribution, Web Development, and Algorithm design.
+
+---
+
+## 🛠️ Built With
+
+* **HTML5** - For semantic structure.
+* **CSS3** - For responsive design and styling.
+* **GitHub Pages** - For hosting.
+
+---
+
+## 📂 Featured Projects
+
+1.  **Tic-Tac-Toe (C Language):**
+    * A logic-based game implementation demonstrating pointer usage and memory management in C.
+    
+2.  **Interactive Game (Python & Web):**
+    * A web-integrated version of Tic-Tac-Toe built using Python and HTML.
+
+3.  **Portfolio Website:**
+    * This project! Built from scratch to display my work and connect with others.
+
+---
+
+## 💻 Technical Skills
+
+* **Languages:** C, Python, Java, HTML5, CSS3, JavaScript
+* **Developer Tools:** Git, GitHub, VS Code
+* **Soft Skills:** Team Collaboration, Problem Solving
+
+---
+
+## 📬 Connect with Me
+
+* **GitHub:** [workwithabhinav07](https://github.com/workwithabhinav07)
+* **LinkedIn:** (https://linkedin.com/in/abhinav-sharma-7b9433385)
+
+---
+
+*Thanks for stopping by!*
