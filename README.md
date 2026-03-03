@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio! This site acts as a showcase of my journey as a Computer Science student, highlighting my projects, technical skills, and academic progress.
 
-**Live Demo:** [https://workwithabhinav07.github.io/](https://workwithabhinav07.github.io/)
+**Live Site:** [https://workwithabhinav07.github.io/](https://workwithabhinav07.github.io/)
 
 ---
 
@@ -20,6 +20,7 @@ I am a **Computer Science Engineer** currently pursuing my B.Tech. I am passiona
 
 * **HTML5** - For semantic structure.
 * **CSS3** - For responsive design and styling.
+* **JavaScript** - For Functionality.
 * **GitHub Pages** - For hosting.
 
 ---
@@ -48,7 +49,7 @@ I am a **Computer Science Engineer** currently pursuing my B.Tech. I am passiona
 ## 📬 Connect with Me
 
 * **GitHub:** [workwithabhinav07](https://github.com/workwithabhinav07)
-* **LinkedIn:** (https://linkedin.com/in/abhinav-sharma-7b9433385)
+* **LinkedIn:** [Abhinav Sharma](https://linkedin.com/in/abhinav-sharma-7b9433385)
 
 ---
 
